@@ -4,7 +4,7 @@ LUMIERE is an elegant and user-friendly online gift shop offering a wide range o
 
 ## Live Demo
 
-Explore our online store: [LUMIERE Gift Shop](https://perfume-city.github.io/giftproject/)
+Explore our online store: [LUMIERE Gift Shop](https://alaasa3di.github.io/Gift-Website-JS/)
 
 ## Figma Design
 
@@ -68,7 +68,7 @@ You can view the design of this project here: [Figma Link](https://www.figma.com
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lumiere.git
+   git clone https://github.com/AlaaSa3di/Gift-Website-JS.git
    ```
 2. Navigate to the project directory:
    ```bash
